@@ -1,4 +1,4 @@
-Description of the folders
+Description of the folders:
 
 **src**: the starter codes and the Makefile
 
